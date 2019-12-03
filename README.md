@@ -3,3 +3,5 @@
 `npm i -S redux react-redux`
 
 `npm i -S redux-devtools-extension`
+
+`npm i -S redux-form`
