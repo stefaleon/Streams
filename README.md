@@ -5,3 +5,5 @@
 `npm i -S redux-devtools-extension`
 
 `npm i -S redux-form`
+
+- in the api folder `npm i -S json-server`
