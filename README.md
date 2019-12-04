@@ -11,3 +11,5 @@
 `npm i -S redux-thunk`
 
 `npm i -S axios`
+
+`npm i -S lodash`
