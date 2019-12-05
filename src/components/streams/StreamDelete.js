@@ -1,5 +1,14 @@
 import React from "react";
 
-const StreamDelete = () => <div>StreamDelete</div>;
+import Modal from "../Modal";
+
+const StreamDelete = () => {
+  return (
+    <div>
+      <div>StreamDelete</div>
+      <Modal />
+    </div>
+  );
+};
 
 export default StreamDelete;
