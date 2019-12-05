@@ -22,6 +22,12 @@
       "description": "stream from another user ",
       "userId": "107363048740524549002",
       "id": 4
+    },
+    {
+      "title": "another by m",
+      "description": "from the refactored StreamCreate",
+      "userId": "112073563630604375400",
+      "id": 5
     }
   ]
 }
