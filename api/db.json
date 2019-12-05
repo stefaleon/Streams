@@ -4,6 +4,12 @@
       "title": "stream1",
       "description": "a test stream ",
       "id": 1
+    },
+    {
+      "title": "stream from signed-in",
+      "description": "another stream from a signed-in user",
+      "userId": "112073563630604375400",
+      "id": 2
     }
   ]
 }
