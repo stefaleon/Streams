@@ -1,3 +1,6 @@
+rtmp/node_modules
+rtmp/package-lock.json
+
 api/node_modules
 api/package-lock.json
 

@@ -13,3 +13,5 @@
 `npm i -S axios`
 
 `npm i -S lodash`
+
+- in the rtmp folder `npm i -S node-media-server`
